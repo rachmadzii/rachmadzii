@@ -1,43 +1,73 @@
-# 🙋‍♀️ Hi, I'm Rachma!
+<h1 align="center">Hi 👋, I'm Rachma</h1>
+<h3 align="center">Web Developer • Informatics Student • Tech Enthusiast</h3>
 
-I'm passionate about **Web Development** and currently diving deep into **Next.js**.
+<p align="center">
+  Passionate about building modern web applications and exploring new technologies 🚀
+</p>
 
-<br />
+---
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rachmadzii) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rachmadzii) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rachmadzii) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rachmadzii)  
+## 👧🏻 About Me
 
-<br />
+- 🎓 Informatics Student
+- 💻 Focused on Web Development & UI/UX
+- 🌱 Currently learning **Next.js**, **Backend Development**, and **AI Integration**
+- ⚡ Love building useful and aesthetic digital products
 
-## 💻 Tech Stack
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChakraUI-4ED1C5?style=for-the-badge&logo=chakraui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white" />
-</div>
+---
 
-<br />
+## 🌐 Connect With Me
 
-## 📊 GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=rachmadzii&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachmadzii&theme=tokyonight&layout=compact&count_private=true" />
-</div>
+<p align="left">
+  <a href="https://instagram.com/rachmadzii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
-<br />
+  <a href="https://linkedin.com/in/rachmadzii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-> Proudly crafted with ❤️ and [GPRM](https://gprm.itsvg.in)
+  <a href="https://rachmadzii.framer.website" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rachmadzii&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> 
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile 🌟
+</p>
