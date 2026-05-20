@@ -1,22 +1,48 @@
-<h1 align="center">Hi 👋, I'm Rachma</h1>
-<h3 align="center">Web Developer • Informatics Student • Tech Enthusiast</h3>
+# 👋 Hi, I'm Rachma
 
-<p align="center">
-  Passionate about building modern web applications and exploring new technologies 🚀
-</p>
+```bash
+┌──(rachma㉿github)-[~/profile]
+└─$ whoami
+
+Web Developer • Informatics Student • Tech Enthusiast
+
+┌──(rachma㉿github)-[~/profile]
+└─$ mission
+
+Passionate about building modern web applications
+and exploring new technologies 🚀
+```
 
 ---
 
 ## 👧🏻 About Me
 
-- 🎓 Informatics Student
-- 💻 Focused on Web Development & UI/UX
-- 🌱 Currently learning **Next.js**, **Backend Development**, and **AI Integration**
-- ⚡ Love building useful and aesthetic digital products
+```bash
+┌──(rachma㉿github)-[~/about]
+└─$ cat info.txt
+
+🎓 Informatics Student
+💻 Focused on Web Development & UI/UX
+🌱 Currently learning:
+   - Next.js
+   - Backend Development
+   - AI Integration
+
+⚡ Love building useful and aesthetic digital products
+```
 
 ---
 
 ## 🌐 Connect With Me
+
+```bash
+┌──(rachma㉿github)-[~/socials]
+└─$ ls
+
+Instagram
+LinkedIn
+Portfolio
+```
 
 <p align="left">
   <a href="https://instagram.com/rachmadzii" target="_blank">
@@ -36,6 +62,11 @@
 
 ## 🛠 Tech Stack
 
+```bash
+┌──(rachma㉿github)-[~/stack]
+└─$ load technologies
+```
+
 <p align="left">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,6 +85,11 @@
 
 ## 🔥 Contribution Streak
 
+```bash
+┌──(rachma㉿github)-[~/stats]
+└─$ git streak --show
+```
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rachmadzii&theme=tokyonight"/>
 </p>
@@ -62,12 +98,20 @@
 
 ## 🐍 Contribution Snake
 
+```bash
+┌──(rachma㉿github)-[~/snake]
+└─$ python generate_snake.py
+```
+
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> 
 </p>
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile 🌟
-</p>
+```bash
+┌──(rachma㉿github)-[~/exit]
+└─$ echo "Thanks for visiting my profile 🌟"
+
+Session ended successfully.
+```
