@@ -22,7 +22,7 @@ and exploring new technologies 🚀
 └─$ cat info.txt
 
 🎓 Informatics Student
-💻 Focused on Web Development & UI/UX
+💻 Focused on Web Development
 🌱 Currently learning:
    - Next.js
    - Backend Development
